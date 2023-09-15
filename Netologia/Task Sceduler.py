@@ -2,7 +2,7 @@ HELP = """
 help - print program information.
 add - add task in list (user input name of task)
 show - print all tasks in list.
-Add commit for gitlab"""
+Add commit for gitlab project"""
 tasks = []
 
 command = input("Enter your command: ")
